@@ -1,3 +1,46 @@
+# Remixing History
+***
+
+### Topic Models
+Document remized as distrubtions of words 
+graphing changes in topics using metadata and comparing 
+visualiations tend to be network graphs or histograms 
+
+Remixing John Adam's Mind
+- Mashing up music with events (i.e bass sound when he goes to dinner)
+
+### Ideas
+Battle of 1812 - images from war or location based on sound 
+
+***Sonification***
+- Using Sketchfab to create music
+Point of remixing history as a way to remix history - different than we write an essay 
+-ties us to the agenda of public history 
+
+***Twitterbots***
+-Glitch.com
+ - a way to remix code
+ - i.e Create a Twitterbot which is a museum - collects 3D models and tweets 
+ 
+ - *Generative Grammars*
+ 
+ - ***Recurrent Neural Networks***
+ 
+-  3D Scene Mash-ups
+ 
+ - 3D File Mash-Up 
+-> MeshMixer and Mesh lab
+  
+             *What happens when I mix together two 3D models?*
+             
+Look at Smithsonian and other places for creative commons pieces
+
+> *Authority, aura and authorship*
+
+**DON'T DO THIS TO YOUR ONLY COPY OF YOUR OBJECT!!**
+  
+***
+
 # Lecture Feb-12-2018
 
 Talk about Feedback: Active listening and attention in lectures, consciously make an effort to tie what you are seeing, 
