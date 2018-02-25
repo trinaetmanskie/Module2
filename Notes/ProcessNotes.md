@@ -41,8 +41,11 @@ Because the coordinates had two numbers (because one for latitude and one for lo
 Voice 2 was data from lines 14-24 and then voice 3 was data from 25-38.
 
 *TOTAL NOTES in each voice*
+
 Voice 1 -22 notes
+
 Voice 2- 24 notes
+
 Voice 3- 28 notes
 
 Voice 1: 40.5084, 86.8417, 43.255278, -79.071667, 44.322083, 76.16986, 9.198206, 76.441497, 42.126111, -83.257222, 42.331389, -83.045833, 43.165, 79.055833, 45.083333, -73.366667, 45.083333, -73.366667, 42.942222, 78.926389, 41.913611, -83.378333
@@ -97,39 +100,63 @@ I then played it.
 I decided to try and change the instruments to make it sound somewhat better. I tried several different variations. 
 
 **Attempt 1**
-Voice 1 piano
-Voice 2 piano
-Voice 3 piano
+
+-Voice 1 piano
+
+-Voice 2 piano
+
+-Voice 3 piano
 
 **Attempt 2**
-Voice 1- piano 
-Voice 2 -voice (oohs)
-Voice 3 -vibraphone
+
+-Voice 1- piano 
+
+-Voice 2 -voice (oohs)
+
+-Voice 3 -vibraphone
+
 *this attempt still was not very long at all*
+
 Decided to play with tempo.
+
 Tempo at 27bmp
 
 **Attempt 3**
-Voice 1 -synth drum
-Voice 2 -synth drum
-Voice 3 - vibraphone
+
+-Voice 1 -synth drum
+
+--Voice 2 -synth drum
+
+-Voice 3 - vibraphone
+
 Tempo 158bpm
 
 **Attempt 4**
-Voice 1 synth strings
-Voice 2 synth strings
-Voice 3 synth strings
+
+-Voice 1 synth strings
+
+-Voice 2 synth strings
+
+-Voice 3 synth strings
+
 Tempo 158 bpm
 
 **Attempt 5**
-Voice 1 synth strings
-Voice 2 synth strings
-Voice 3 marimba
+
+-Voice 1 synth strings
+
+-Voice 2 synth strings
+
+-Voice 3 marimba
+
 Tempo 158 bpm
 
 **Attempt 6**
+
 Voice 1 synth drum
+
 Voice 2 synth drum
+
 Voice 3 marimba 
 
 ***
@@ -137,8 +164,11 @@ Voice 3 marimba
 I attempted to save this file and upload it to Garage band. But once in Garage band the instruments that I have picked are lost. 
 
 The instruments translate to: 
+
 -Steinway Grand Piano for voice 1, 
+
 -Epic Cloud Formation for voice 2 and 
+
 -Fingerstyle Bass for voice 3.
 
 All the sound changes that I had made were essentially lost. 
@@ -146,17 +176,26 @@ All the sound changes that I had made were essentially lost.
 I continued to work in Music Algorithms to try and change instruments and look for a better sounding instrument. 
 
 Tempo 86
-Voice 1 synth drum
-Voice 2 synth drum
-Voice 3 marimba
+-Voice 1 synth drum
 
-Voice 1 classical guitar
-Voice 2 piccolo
-Voice 3 bass
+-Voice 2 synth drum
 
-Voice 1 harp
-Voice 2 piccolo
-Voice 3 bass
+-Voice 3 marimba
+
+
+-Voice 1 classical guitar
+
+-Voice 2 piccolo
+
+-Voice 3 bass
+
+
+-Voice 1 harp
+
+-Voice 2 piccolo
+
+-Voice 3 bass
+
 *this one was my favourite
 
 *When you upload to garage band on a Mac it has standard instruments and does not let you change them*
@@ -172,25 +211,24 @@ Still nothing worked.
 I change the range to 0-8
 
 I changed the instruments again
-Voice 1 harp
-Voice 2 piccolo
-Voice 3 woodblock
-Tempo 42
+-Voice 1 harp
+-Voice 2 piccolo
+-Voice 3 woodblock
+-Tempo 42
 
 I then decide to download MuseScore (I thought I would be able to upload the music there but actually it just turns the music into music notes). 
 
 I turned my computer off and the next day continued and when I came back I realized I had a tab open with Music Algorithms but it was the app version so it looked different from the website. I played around with the information and found a way to sonify it a lot better but I was unable to download the file from there. Thus, I added all the information back to the original website and ended up with this. 
 
+***
 
-
-I then wanted to work with this file in Garage band but it was not working. I converted the file from MIDI to an MP3 using https://www.zamzar.com/uploadComplete.php?convertFile
-=mid&to=mp3
+I then wanted to work with this file in Garage band but it was not working. I converted the file from MIDI to an MP3 using https://www.zamzar.com/uploadComplete.php?convertFile=mid&to=mp3
 
 I then emailed the link to myself and opened it on an Ipad. I followed this guide on how to upload iCloud files to Garage Band. https://midnightmusic.com.au/2016/10/how-to-import-audio-files-into-garageband-for-ipad/
 
 Then, I added the track twice. The first time without edits (tempo 158), the second time the same track (that was a tempo of 158) and the third time a tempo of 102. I then used Garage Band’s FX feature and created the “DJ-like” sound affects that appear 10 seconds into the song. 
 
-It did not turn out as long as I would have liked but it did work and that is the most important part. 
+***It did not turn out as long as I would have liked but it did work and that is the most important part.***
 
 
 
