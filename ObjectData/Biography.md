@@ -1,1 +1,1 @@
-Here is all the object data
+For module 2 I decided to sonify data about the War of 1812. For Module 1, the model that was created was still pixelated and was not up to my standards. Therefore, I gathered data from the War of 1812. All the data is from the longitude and latitude of battle locations for The War of 1812. Through sonifying the data, anyone is now able to hear the locations of the war. Although the clip is quite short (only 27 seconds) it is still interesting to listen to the history.
