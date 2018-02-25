@@ -18,8 +18,11 @@ Anon, The War of 1812. Access Heritage. Available at: http://www.warof1812.ca/ba
 
 Anon, 2016. How To Import Audio Files Into GarageBand for iPad. Midnight Music. Available at: https://midnightmusic.com.au/2016/10/how-to-import-audio-files-into-garageband-for-ipad/ [Accessed February 25, 2018].
 
+Copplestone, T. (2018). Making things: Photobashing as Archaeological Remediation?. [Blog] GAMINGARCHAEO. Available at: http://blog.taracopplestone.co.uk/making-things-photobashing-as-archaeological-remediation/# [Accessed 25 Feb. 2018].
+
 Gunkel, David J. 2008 Rethinking the Digital Remix: Mash‐ups and the Metaphysics of Sound Recording. Popular Music and Society 31, no. 4: 489–510. http://resolver.scholarsportal.info/resolve/03007766/v31i0004/489_rtdrmatmosr.xml.
 
 JM Young (1834). Tourist's Pocket Map of Michigan. Avaulable at: (David Rumsey Collection) https://upload.wikimedia.org/wikipedia/commons/0/02/Tourist%27s_Pocket_Map_Of_Michigan_%28Samuel_Augustus_Mitchell%2C_1835%29.jpg (Accessed: 20 Feb 2018)
 
 *This was a Map of Michigan that contained the location of some of the battles.*
+
