@@ -29,10 +29,10 @@ I then emailed the prof to confirm that all this information was accurate.
 
 **Step 3:**
 
-I followeed step by step the information to then sonify this data.
+I followed step by step the information to then sonify this data.
 https://github.com/shawngraham/hist3812w18/wiki/How-do-I-sonify-the-data-I-created-in-Module-1%3F
 
-This step was the longest because it took me many different tries and combinations.
+This step was the *longest* because it took me many different tries and combinations.
 
 **Pitch Input**
 
